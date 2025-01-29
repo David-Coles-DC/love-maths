@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![logo](https://github.com/user-attachments/assets/340fd32b-137b-424e-8bfa-21d87d576bed)
 
 # Love Maths
 
