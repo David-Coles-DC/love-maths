@@ -132,7 +132,7 @@ function displayDivisionQuestion(operand1, operand2) {
 
     operand1 = operand1 > operand2 ? operand1 : operand2;
     operand2 = operand1 > operand2 ? operand2 : operand1;
-    operand1 *= 2;
+    operand1 *= Math.floor(Math.random() * 3) + 2;
 
     while (operand1 % operand2 !== 0) {
         operand1++;
